@@ -22,7 +22,7 @@ $().ready(function(){
             'onclick="userLogInRequest();">'+
             'Spotify Login '+'</button>' +
             '<br>'+
-            '<p>Only available for Spotify Premiere account!</p>'
+            '<p class="text-dark">Only available for Spotify Premiere account!</p>'
         );
     }
     // Show the spotify controller 
